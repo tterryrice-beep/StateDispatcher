@@ -1,6 +1,6 @@
 {
-  "name": "path-router-red",
-  "version": "0.4.3",
+  "name": "state-dispatcher-red",
+  "version": "0.1.1",
   "private": false,
   "description": "Type-safe routing layer",
   "main": "dist/index.js",
@@ -13,12 +13,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tterryrice-beep/path-router.git"
+    "url": "https://github.com/tterryrice-beep/StateDispatcher.git"
   },
   "bugs": {
-    "url": "https://github.com/tterryrice-beep/path-router/issues"
+    "url": "https://github.com/tterryrice-beep/StateDispatcher/issues"
   },
-  "homepage": "https://github.com/tterryrice-beep/path-router#readme",
+  "homepage": "https://github.com/tterryrice-beep/StateDispatcher#readme",
   "devDependencies": {
     "@types/events": "^3.0.3",
     "@types/react": "^19.2.17",
